@@ -1,0 +1,66 @@
+PID: 11836 START: 1707664383551239936 :+++++++++++++++NEW COMMAND+++++++++++++++++++ starting new command: init, -u, https://github.com/zamathebest/Openwatch_mtk6793/manifest, -b, main
+
+PID: 11836 START: 1707664383556138752 :git command /home/giorgio/Documents/projects/Openwatch_mtk6793/.repo/manifests.git ['git', 'init'] with debug: : export GIT_DIR=/home/giorgio/Documents/projects/Openwatch_mtk6793/.repo/manifests.git
+: git init 1>| 2>|
+
+PID: 11836 END: 1707664383558664448 :git command /home/giorgio/Documents/projects/Openwatch_mtk6793/.repo/manifests.git ['git', 'init'] with debug: : export GIT_DIR=/home/giorgio/Documents/projects/Openwatch_mtk6793/.repo/manifests.git
+: git init 1>| 2>|
+
+PID: 11836 START: 1707664383559110656 :git command /home/giorgio/Documents/projects/Openwatch_mtk6793/.repo/manifests.git ['git', 'config', '--file', '/home/giorgio/Documents/projects/Openwatch_mtk6793/.repo/manifests.git/config', '--includes', '--null', '--list'] with debug: : git config --file /home/giorgio/Documents/projects/Openwatch_mtk6793/.repo/manifests.git/config --includes --null --list 1>| 2>|
+
+PID: 11836 END: 1707664383560204288 :git command /home/giorgio/Documents/projects/Openwatch_mtk6793/.repo/manifests.git ['git', 'config', '--file', '/home/giorgio/Documents/projects/Openwatch_mtk6793/.repo/manifests.git/config', '--includes', '--null', '--list'] with debug: : git config --file /home/giorgio/Documents/projects/Openwatch_mtk6793/.repo/manifests.git/config --includes --null --list 1>| 2>|
+
+PID: 11836 START: 1707664383560298240 :: parsing /home/giorgio/.gitconfig
+
+PID: 11836 END: 1707664383560484096 :: parsing /home/giorgio/.gitconfig
+
+PID: 11836 START: 1707664383560571648 :git command /home/giorgio/Documents/projects/Openwatch_mtk6793/.repo/manifests.git ['git', 'config', '--file', '/home/giorgio/Documents/projects/Openwatch_mtk6793/.repo/manifests.git/config', '--includes', '--replace-all', 'filter.lfs.smudge', 'git-lfs smudge --skip -- %f'] with debug: : git config --file /home/giorgio/Documents/projects/Openwatch_mtk6793/.repo/manifests.git/config --includes --replace-all filter.lfs.smudge git-lfs smudge --skip -- %f 1>| 2>|
+
+PID: 11836 END: 1707664383561699584 :git command /home/giorgio/Documents/projects/Openwatch_mtk6793/.repo/manifests.git ['git', 'config', '--file', '/home/giorgio/Documents/projects/Openwatch_mtk6793/.repo/manifests.git/config', '--includes', '--replace-all', 'filter.lfs.smudge', 'git-lfs smudge --skip -- %f'] with debug: : git config --file /home/giorgio/Documents/projects/Openwatch_mtk6793/.repo/manifests.git/config --includes --replace-all filter.lfs.smudge git-lfs smudge --skip -- %f 1>| 2>|
+
+PID: 11836 START: 1707664383561805056 :git command /home/giorgio/Documents/projects/Openwatch_mtk6793/.repo/manifests.git ['git', 'config', '--file', '/home/giorgio/Documents/projects/Openwatch_mtk6793/.repo/manifests.git/config', '--includes', '--replace-all', 'filter.lfs.process', 'git-lfs filter-process --skip'] with debug: : git config --file /home/giorgio/Documents/projects/Openwatch_mtk6793/.repo/manifests.git/config --includes --replace-all filter.lfs.process git-lfs filter-process --skip 1>| 2>|
+
+PID: 11836 END: 1707664383562803712 :git command /home/giorgio/Documents/projects/Openwatch_mtk6793/.repo/manifests.git ['git', 'config', '--file', '/home/giorgio/Documents/projects/Openwatch_mtk6793/.repo/manifests.git/config', '--includes', '--replace-all', 'filter.lfs.process', 'git-lfs filter-process --skip'] with debug: : git config --file /home/giorgio/Documents/projects/Openwatch_mtk6793/.repo/manifests.git/config --includes --replace-all filter.lfs.process git-lfs filter-process --skip 1>| 2>|
+
+PID: 11836 START: 1707664383562957568 :git command /home/giorgio/Documents/projects/Openwatch_mtk6793/.repo/manifests.git ['git', 'config', '--file', '/home/giorgio/Documents/projects/Openwatch_mtk6793/.repo/manifests.git/config', '--includes', '--unset-all', 'core.bare'] with debug: : git config --file /home/giorgio/Documents/projects/Openwatch_mtk6793/.repo/manifests.git/config --includes --unset-all core.bare 1>| 2>|
+
+PID: 11836 END: 1707664383564137728 :git command /home/giorgio/Documents/projects/Openwatch_mtk6793/.repo/manifests.git ['git', 'config', '--file', '/home/giorgio/Documents/projects/Openwatch_mtk6793/.repo/manifests.git/config', '--includes', '--unset-all', 'core.bare'] with debug: : git config --file /home/giorgio/Documents/projects/Openwatch_mtk6793/.repo/manifests.git/config --includes --unset-all core.bare 1>| 2>|
+
+PID: 11836 START: 1707664383564333056 :git command /home/giorgio/Documents/projects/Openwatch_mtk6793/.repo/manifests.git ['git', 'config', '--file', '/home/giorgio/Documents/projects/Openwatch_mtk6793/.repo/manifests.git/config', '--includes', '--replace-all', 'remote.origin.url', 'https://github.com/zamathebest/Openwatch_mtk6793/manifest'] with debug: : git config --file /home/giorgio/Documents/projects/Openwatch_mtk6793/.repo/manifests.git/config --includes --replace-all remote.origin.url https://github.com/zamathebest/Openwatch_mtk6793/manifest 1>| 2>|
+
+PID: 11836 END: 1707664383565476608 :git command /home/giorgio/Documents/projects/Openwatch_mtk6793/.repo/manifests.git ['git', 'config', '--file', '/home/giorgio/Documents/projects/Openwatch_mtk6793/.repo/manifests.git/config', '--includes', '--replace-all', 'remote.origin.url', 'https://github.com/zamathebest/Openwatch_mtk6793/manifest'] with debug: : git config --file /home/giorgio/Documents/projects/Openwatch_mtk6793/.repo/manifests.git/config --includes --replace-all remote.origin.url https://github.com/zamathebest/Openwatch_mtk6793/manifest 1>| 2>|
+
+PID: 11836 START: 1707664383565631232 :git command /home/giorgio/Documents/projects/Openwatch_mtk6793/.repo/manifests.git ['git', 'config', '--file', '/home/giorgio/Documents/projects/Openwatch_mtk6793/.repo/manifests.git/config', '--includes', '--replace-all', 'remote.origin.fetch', '+refs/heads/*:refs/remotes/origin/*'] with debug: : git config --file /home/giorgio/Documents/projects/Openwatch_mtk6793/.repo/manifests.git/config --includes --replace-all remote.origin.fetch +refs/heads/*:refs/remotes/origin/* 1>| 2>|
+
+PID: 11836 END: 1707664383566664960 :git command /home/giorgio/Documents/projects/Openwatch_mtk6793/.repo/manifests.git ['git', 'config', '--file', '/home/giorgio/Documents/projects/Openwatch_mtk6793/.repo/manifests.git/config', '--includes', '--replace-all', 'remote.origin.fetch', '+refs/heads/*:refs/remotes/origin/*'] with debug: : git config --file /home/giorgio/Documents/projects/Openwatch_mtk6793/.repo/manifests.git/config --includes --replace-all remote.origin.fetch +refs/heads/*:refs/remotes/origin/* 1>| 2>|
+
+PID: 11836 START: 1707664383566873856 :git command /home/giorgio/Documents/projects/Openwatch_mtk6793/.repo/manifests.git ['git', 'config', '--file', '/home/giorgio/Documents/projects/Openwatch_mtk6793/.repo/manifests.git/config', '--includes', '--replace-all', 'manifest.platform', 'auto'] with debug: : git config --file /home/giorgio/Documents/projects/Openwatch_mtk6793/.repo/manifests.git/config --includes --replace-all manifest.platform auto 1>| 2>|
+
+PID: 11836 END: 1707664383567821312 :git command /home/giorgio/Documents/projects/Openwatch_mtk6793/.repo/manifests.git ['git', 'config', '--file', '/home/giorgio/Documents/projects/Openwatch_mtk6793/.repo/manifests.git/config', '--includes', '--replace-all', 'manifest.platform', 'auto'] with debug: : git config --file /home/giorgio/Documents/projects/Openwatch_mtk6793/.repo/manifests.git/config --includes --replace-all manifest.platform auto 1>| 2>|
+
+PID: 11836 START: 1707664383567948032 :git command /home/giorgio/Documents/projects/Openwatch_mtk6793/.repo/manifests.git ['git', 'config', '--file', '/home/giorgio/Documents/projects/Openwatch_mtk6793/.repo/manifests.git/config', '--includes', '--replace-all', 'core.repositoryFormatVersion', '1'] with debug: : git config --file /home/giorgio/Documents/projects/Openwatch_mtk6793/.repo/manifests.git/config --includes --replace-all core.repositoryFormatVersion 1 1>| 2>|
+
+PID: 11836 END: 1707664383568994816 :git command /home/giorgio/Documents/projects/Openwatch_mtk6793/.repo/manifests.git ['git', 'config', '--file', '/home/giorgio/Documents/projects/Openwatch_mtk6793/.repo/manifests.git/config', '--includes', '--replace-all', 'core.repositoryFormatVersion', '1'] with debug: : git config --file /home/giorgio/Documents/projects/Openwatch_mtk6793/.repo/manifests.git/config --includes --replace-all core.repositoryFormatVersion 1 1>| 2>|
+
+PID: 11836 START: 1707664383569093120 :git command /home/giorgio/Documents/projects/Openwatch_mtk6793/.repo/manifests.git ['git', 'config', '--file', '/home/giorgio/Documents/projects/Openwatch_mtk6793/.repo/manifests.git/config', '--includes', '--replace-all', 'extensions.preciousObjects', 'true'] with debug: : git config --file /home/giorgio/Documents/projects/Openwatch_mtk6793/.repo/manifests.git/config --includes --replace-all extensions.preciousObjects true 1>| 2>|
+
+PID: 11836 END: 1707664383570078464 :git command /home/giorgio/Documents/projects/Openwatch_mtk6793/.repo/manifests.git ['git', 'config', '--file', '/home/giorgio/Documents/projects/Openwatch_mtk6793/.repo/manifests.git/config', '--includes', '--replace-all', 'extensions.preciousObjects', 'true'] with debug: : git config --file /home/giorgio/Documents/projects/Openwatch_mtk6793/.repo/manifests.git/config --includes --replace-all extensions.preciousObjects true 1>| 2>|
+
+PID: 11836 START: 1707664383570264832 :git command /home/giorgio/Documents/projects/Openwatch_mtk6793/.repo/manifests.git ['git', 'fetch', '--quiet', 'origin', '--recurse-submodules=no', '--tags', '+refs/heads/main:refs/remotes/origin/main', '+refs/tags/*:refs/tags/*'] with debug: : export GIT_OBJECT_DIRECTORY=/home/giorgio/Documents/projects/Openwatch_mtk6793/.repo/manifests.git/objects
+: git fetch --quiet origin --recurse-submodules=no --tags +refs/heads/main:refs/remotes/origin/main +refs/tags/*:refs/tags/* 1>| 2>&1
+
+PID: 11836 END: 1707664398882501888 :git command /home/giorgio/Documents/projects/Openwatch_mtk6793/.repo/manifests.git ['git', 'fetch', '--quiet', 'origin', '--recurse-submodules=no', '--tags', '+refs/heads/main:refs/remotes/origin/main', '+refs/tags/*:refs/tags/*'] with debug: : export GIT_OBJECT_DIRECTORY=/home/giorgio/Documents/projects/Openwatch_mtk6793/.repo/manifests.git/objects
+: git fetch --quiet origin --recurse-submodules=no --tags +refs/heads/main:refs/remotes/origin/main +refs/tags/*:refs/tags/* 1>| 2>&1
+
+PID: 11836 START: 1707664398883789568 :git command /home/giorgio/Documents/projects/Openwatch_mtk6793/.repo/manifests.git ['git', 'config', '--get', 'trace2.eventtarget'] with debug: : git config --get trace2.eventtarget 1>| 2>|
+
+PID: 11836 END: 1707664398889682176 :git command /home/giorgio/Documents/projects/Openwatch_mtk6793/.repo/manifests.git ['git', 'config', '--get', 'trace2.eventtarget'] with debug: : git config --get trace2.eventtarget 1>| 2>|
+
+PID: 11836 START: 1707664402893564416 :git command /home/giorgio/Documents/projects/Openwatch_mtk6793/.repo/manifests.git ['git', 'fetch', '--quiet', 'origin', '--recurse-submodules=no', '--tags', '+refs/heads/main:refs/remotes/origin/main', '+refs/tags/*:refs/tags/*'] with debug: : export GIT_OBJECT_DIRECTORY=/home/giorgio/Documents/projects/Openwatch_mtk6793/.repo/manifests.git/objects
+: git fetch --quiet origin --recurse-submodules=no --tags +refs/heads/main:refs/remotes/origin/main +refs/tags/*:refs/tags/* 1>| 2>&1
+
+PID: 11836 END: 1707664418104715776 :git command /home/giorgio/Documents/projects/Openwatch_mtk6793/.repo/manifests.git ['git', 'fetch', '--quiet', 'origin', '--recurse-submodules=no', '--tags', '+refs/heads/main:refs/remotes/origin/main', '+refs/tags/*:refs/tags/*'] with debug: : export GIT_OBJECT_DIRECTORY=/home/giorgio/Documents/projects/Openwatch_mtk6793/.repo/manifests.git/objects
+: git fetch --quiet origin --recurse-submodules=no --tags +refs/heads/main:refs/remotes/origin/main +refs/tags/*:refs/tags/* 1>| 2>&1
+
+PID: 11836 END: 1707664418108545024 :+++++++++++++++NEW COMMAND+++++++++++++++++++ starting new command: init, -u, https://github.com/zamathebest/Openwatch_mtk6793/manifest, -b, main
+

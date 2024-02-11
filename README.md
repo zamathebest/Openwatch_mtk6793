@@ -5,7 +5,7 @@ https://source.android.com/setup/build/initializing#installing-required-packages
 Sync
 
 # Initialize local repository
-repo init -u https://github.com/zamathebest/Openwatch_mtk6793/manifest -b main
+repo init -u https://github.com/zamathebest/Openwatch_mtk6793 -b main
 
 # Sync
 repo sync -c -j$(nproc --all) --force-sync --no-clone-bundle --no-tags
